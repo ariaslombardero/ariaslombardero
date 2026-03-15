@@ -22,11 +22,21 @@ A continuación, una selección de proyectos construidos para escalar la operati
 | **Gestor inteligente de correo** | Sistema que categoriza, analiza y resume correos y adjuntos. Transforma gestiones de 1 hora en procesos de 5 minutos. |
 | **Calculadora de plazos de la LCSP** | App para el cálculo de plazos de contratación pública (Ley 9/2017) automatizada según importe, trámite y calendario laboral de Lugo. |
 
-## 🌟 Actividad y divulgación
+## 🌟 Publicaciones académicas, premios y divulgación
 
-*   **Premio a la "Mejor comunicación"** en el II Congreso Foro GRC (Madrid, 2026) por el modelo "MencIA".
-*   Inversor activo y ponente en los principales foros tecnológicos nacionales (NovaGob, Local.IA, Socinfo Digital).
-*   Miembro activo de la comunidad de IA Open Source de la SEDIA y su Red de Embajadores.
+### 📖 Publicaciones académicas
+
+*   **Arias Lombardero, J.A.**, Rivera Capón, P. y Fariña Verea, N. (2025). [«Gobernanza algorítmica local: diseño e implementación de un stack de IA soberana en código abierto para entidades supramunicipales»](https://doi.org/10.7238/idp.v0i43.9800300). *Revista de Internet, Derecho y Política (IDP)*, nº 43. Universitat Oberta de Catalunya (UOC). ISSN 1699-8154.
+*   **Arias Lombardero, J.A.** (2025). [«Gobierno local inteligente y soberano: una propuesta estratégica para la implementación de IA de código abierto en la provincia de Lugo»](https://revista.cemci.org/numero-67/pdf/revista-cemci-numero-67.pdf). *Revista del Centro de Estudios Municipales y de Cooperación Internacional (CEMCI)*, nº 67. ISSN 1989-2470.
+
+### 🏆 Premios y reconocimientos
+
+*   **Premio a la mejor comunicación** en el [II Foro GRC (Madrid, feb. 2026)](https://www.aec.es/nosotros/actualidad-aec/el-ii-congreso-foro-grc-consolida-su-liderazgo-como-espacio-de-referencia-en-gobernanza-riesgo-y-cumplimiento/), otorgado por la Asociación Española para la Calidad (AEC). Ponencia: *"MencIA: soberanía tecnológica realista. Un modelo integral de gobierno, riesgo y cumplimiento (GRC) para la IA en el sector público"*.
+
+### 📢 Actividad divulgativa
+
+*   Ponente en congresos y foros tecnológicos nacionales de referencia para la modernización de la administración (NovaGob, Local.IA, Socinfo Digital).
+*   Miembro activo de la comunidad de IA de código abierto de la Secretaría de Estado de Digitalización e Inteligencia Artificial (SEDIA) y su red de embajadores.
 
 ---
 📫 Si quieres contactar conmigo para hablar sobre innovación institucional, modernización administrativa o IA en el sector público, puedes conectar a través de mi [página web profesional](https://ja-lombardero.vercel.app/).
