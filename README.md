@@ -29,7 +29,7 @@ A continuación, una selección de proyectos construidos para mi entidad con el 
 | **Gestor inteligente de correo** | Sistema que categoriza, analiza y resume correos y adjuntos. Transforma gestiones de 1 hora en procesos de 5 minutos. |
 | **Calculadora de plazos de la LCSP** | App para el cálculo de plazos de contratación pública (Ley 9/2017) automatizada según importe, trámite y calendario laboral de Lugo. |
 
-## 🌟 Publicaciones académicas, premios y divulgación
+## ✒️ Publicaciones académicas, premios y divulgación
 
 ### 📖 Publicaciones académicas
 
