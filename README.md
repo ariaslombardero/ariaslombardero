@@ -1,18 +1,18 @@
 # Hola, soy Jose Antonio Arias Lombardero 👋
 
-**Experto en Inteligencia Artificial aplicada al sector público, innovación, contratación y fondos europeos.**
+**Experto en Inteligencia Artificial aplicada al sector público.**
 
-Actualmente me desempeño como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Mi misión principal es impulsar la alfabetización en IA dentro de la Administración Pública, asegurando el cumplimiento operativo de normativas como la Ley de IA europea (RIA) a través de soluciones pragmáticas, soberanas y de código abierto.
+Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar la alfabetización en IA dentro de mi entidad y ayudar a otras administraciones públicas a cumplir con esta obligación que establece el Art. 4 del Reglamento europeo de inteligencia artificial. Todo ello a través de planes de formación prácticos y adaptados a la realidad del empleado público.
 
 🔗 [Visita mi portfolio profesional y currículum completo](https://ja-lombardero.vercel.app/)
 
 ## 🚀 Mi visión tecnológica (Vibe Coding)
 
-Creo firmemente que la programación ya no es el fin, sino el medio. A través de metodologías de **Desarrollo asistido por IA (AI-Driven Development / Vibe Coding)**, orquesto ecosistemas de agentes (como Gemini o Claude) para conceptualizar, desarrollar y desplegar herramientas de alto impacto en tiempos récord. Mi enfoque convierte los retos burocráticos en soluciones de software *cloud-native*.
+Creo firmemente que la programación ya no es el fin, sino el medio. A través de metodologías de **Desarrollo asistido por IA (AI-Driven Development / Vibe Coding)**, orquesto ecosistemas de agentes para conceptualizar, desarrollar y desplegar herramientas de alto impacto poco tiempo. Mi enfoque convierte los retos burocráticos en soluciones de software *cloud-native*.
 
 ## 💻 Portfolio de aplicaciones destacadas
 
-A continuación, una selección de proyectos construidos para escalar la operatividad del sector público:
+A continuación, una selección de proyectos construidos para mi entidad con el objetivo de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje:
 
 | Proyecto | Descripción |
 | :--- | :--- |
