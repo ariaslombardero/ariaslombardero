@@ -1,4 +1,4 @@
-# Hola, soy José Antonio Arias Lombardero 👋
+# Hola, soy Jose Antonio Arias Lombardero 👋
 
 **Experto en Inteligencia Artificial aplicada al sector público, innovación, contratación y fondos europeos.**
 
