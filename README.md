@@ -1,14 +1,21 @@
 # Hola, soy Jose Antonio Arias Lombardero 👋
 
-**Experto en Inteligencia Artificial aplicada al sector público.**
+**Funcionario Público | Divulgador y formador en IA | Aprendiz de vibe coder.**
 
-Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar la alfabetización en IA dentro de mi entidad y ayudar a otras administraciones públicas a cumplir con esta obligación que establece el Art. 4 del Reglamento europeo de inteligencia artificial. Todo ello a través de planes de formación prácticos y adaptados a la realidad del empleado público.
+Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar una Inteligencia Artificial soberana, ética y útil para la Administración Pública y formar a equipos para un despliegue responsable de la IA en los próximos años.
 
-🔗 [Visita mi portfolio profesional y currículum completo](https://ja-lombardero.vercel.app/)
+🔗 [Visita mi portfolio profesional y mi currículum interactivo](https://ja-lombardero.vercel.app/)
 
-## 🚀 Mi visión tecnológica (Vibe Coding)
+## 🚀 Mi visión tecnológica: el código como herramienta didáctica
 
-Creo firmemente que la programación ya no es el fin, sino el medio. A través de metodologías de **Desarrollo asistido por IA (AI-Driven Development / Vibe Coding)**, orquesto ecosistemas de agentes para conceptualizar, desarrollar y desplegar herramientas de alto impacto poco tiempo. Mi enfoque convierte los retos burocráticos en soluciones de software *cloud-native*.
+Creo que la programación ya no es el fin, sino el medio. A través de metodologías de desarrollo asistido por IA (Vibe Coding), intento construir ecosistemas de agentes para conceptualizar y desplegar herramientas de alto impacto.
+
+**¿Por qué construyo estas aplicaciones?**
+
+Tienen un doble objetivo:
+
+*   Resolver problemas concretos de nuestro día a día como empleados públicos. Utilizo interfaces de usuario sencillas con una curva de aprendizaje muy baja.
+*   Servir como material didáctico interactivo. Como formador de empleados públicos, utilizo estas herramientas en mis sesiones para aterrizar la teoría. Demuestro de forma práctica cómo la IA puede transformar nuestro trabajo diario, facilitando así el cumplimiento de la obligación de alfabetización en IA que exige el Art. 4 del Reglamento Europeo de IA.
 
 ## 💻 Portfolio de aplicaciones destacadas
 
