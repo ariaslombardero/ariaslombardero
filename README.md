@@ -34,7 +34,7 @@ A continuación, una selección de proyectos construidos para mi entidad con el 
 ### 📖 Publicaciones académicas
 
 *   **Arias Lombardero, J.A.**, Rivera Capón, P. y Fariña Verea, N. (2025). [«Gobernanza algorítmica local: diseño e implementación de un stack de IA soberana en código abierto para entidades supramunicipales»](https://doi.org/10.7238/idp.v0i43.9800300). *Revista de Internet, Derecho y Política (IDP)*, nº 43. Universitat Oberta de Catalunya (UOC). ISSN 1699-8154.
-*   **Arias Lombardero, J.A.** (2025). [«Gobierno local inteligente y soberano: una propuesta estratégica para la implementación de IA de código abierto en la provincia de Lugo»](https://revista.cemci.org/numero-67/pdf/revista-cemci-numero-67.pdf). *Revista del Centro de Estudios Municipales y de Cooperación Internacional (CEMCI)*, nº 67. ISSN 1989-2470.
+*   **Arias Lombardero, J.A.** (2025). [«Gobierno local inteligente y soberano: una propuesta estratégica para la implementación de IA de código abierto en la provincia de Lugo»](https://revista.cemci.org/numero-67/pdf/trabajos-de-evaluacion-1-gobierno-local-inteligente-y-soberano-una-propuesta-estrategica-para-la-implementacion-de-ia-de-codigo-abierto-en-la-provincia-de-lugo.pdf). *Revista del Centro de Estudios Municipales y de Cooperación Internacional (CEMCI)*, nº 67. ISSN 1989-2470.
 
 ### 🏆 Premios y reconocimientos
 
