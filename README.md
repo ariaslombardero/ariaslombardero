@@ -25,7 +25,7 @@ A continuación, una selección de proyectos construidos para mi entidad con el 
 | :--- | :--- |
 | **[Landing MencIA](https://github.com/jose-antarias/LandingMencIA)** | Portal institucional interactivo para la estrategia de IA de la Diputación de Lugo. Diseño premium con modo oscuro, GSAP y simuladores inmersivos. |
 | **[The AI Island Challenge](https://github.com/jose-antarias/The-AI-island-challenge)** | Minijuego de aventura gráfica estilo SCUMM (Monkey Island) para servir como ejemplo básico de cómo divulgar conceptos del Reglamento Europeo de IA de forma gamificada y sencilla. HTML5 autocontenido, sin dependencias. |
-| **Plataforma formativa Guías AESIA** | Campus gamificado (escape room, flashcards) que integra las 16 guías técnicas de la AESIA para formar a empleados públicos. |
+| **[Guías AESIA 4.0](https://github.com/jose-antarias/Guias-AESIA-4.0)** | Plataforma de aprendizaje interactiva que integra las 16 guías prácticas para el cumplimiento del RIA publicadas por la AESIA. |
 | **Monitor de edictos del BOE** | Agente automatizado que rastrea diariamente edictos judiciales concursales, reduciendo tareas manuales drásticamente en recaudación. |
 | **Gestor inteligente de correo** | Sistema que categoriza, analiza y resume correos y adjuntos. Transforma gestiones de 1 hora en procesos de 5 minutos. |
 | **Calculadora de plazos de la LCSP** | App para el cálculo de plazos de contratación pública (Ley 9/2017) automatizada según importe, trámite y calendario laboral de Lugo. |
