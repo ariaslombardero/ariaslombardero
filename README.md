@@ -19,7 +19,7 @@ Tienen un doble objetivo:
 
 ## 💻 Portfolio de aplicaciones destacadas
 
-A continuación, os muestro una selección de proyectos construidos para mi entidad con el objetivo de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje y de mostrar la estrategia de IA de la entidad en la que trabajo. Poco a poco compartiré más proyectos y añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
+A continuación, os muestro una pequeña selección de los proyectos que he construido para mi entidad con el objetivo de dar difusión a su estrategia de IA así y de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje. Poco a poco compartiré otros proyectos en los que estoy trabajando actualmente e iré añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
 
 | Proyecto | Descripción |
 | :--- | :--- |
