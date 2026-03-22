@@ -4,7 +4,7 @@
 
 Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar una Inteligencia Artificial soberana, ética y útil para la Administración Pública y formar a equipos para un despliegue responsable de la IA en los próximos años.
 
-🔗 [Visita mi portfolio profesional y mi currículum interactivo](https://ja-lombardero.vercel.app/)
+🔗 [Visita mi portfolio profesional y mi currículum interactivo](https://ariaslombardero.es/)
 
 ## 🚀 Mi visión tecnológica: el código como herramienta didáctica
 
@@ -47,4 +47,4 @@ A continuación, os muestro una pequeña selección de los proyectos que he cons
 *   Miembro activo de la comunidad de IA de código abierto de la Secretaría de Estado de Digitalización e Inteligencia Artificial (SEDIA) y su red de embajadores.
 
 ---
-📫 Si quieres contactar conmigo para hablar sobre innovación institucional, modernización administrativa o IA en el sector público, puedes conectar a través de mi [página web profesional](https://ja-lombardero.vercel.app/).
+📫 Si quieres contactar conmigo para hablar sobre innovación institucional, modernización administrativa o IA en el sector público, puedes conectar a través de mi ✉️[correo electrónico](mailto:jose@ariaslombardero.es).
