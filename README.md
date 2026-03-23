@@ -19,16 +19,17 @@ Tienen un doble objetivo:
 
 ## 💻 Portfolio de aplicaciones destacadas
 
-A continuación, os muestro una pequeña selección de los proyectos que he construido para mi entidad con el objetivo de dar difusión a su estrategia de IA así y de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje. Poco a poco compartiré otros proyectos en los que estoy trabajando actualmente e iré añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
+A continuación, os muestro una pequeña selección de los proyectos que he construido para mi entidad con el objetivo de dar difusión a su estrategia de IA y de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje. Poco a poco compartiré otros proyectos en los que estoy trabajando actualmente e iré añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
 
 | Proyecto | Descripción |
 | :--- | :--- |
-| **[Landing MencIA](https://github.com/jose-antarias/LandingMencIA)** | Portal institucional interactivo para la estrategia de IA de la Diputación de Lugo. Diseño premium con modo oscuro, GSAP y simuladores inmersivos. |
-| **[The AI Island Challenge](https://github.com/jose-antarias/The-AI-island-challenge)** | Minijuego de aventura gráfica estilo SCUMM (Monkey Island) para servir como ejemplo básico de cómo divulgar conceptos del Reglamento Europeo de IA de forma gamificada y sencilla. HTML5 autocontenido, sin dependencias. |
-| **[Guías AESIA 4.0](https://github.com/jose-antarias/Guias-AESIA-4.0)** | Plataforma de aprendizaje interactiva que integra las 16 guías prácticas para el cumplimiento del RIA publicadas por la AESIA. |
-| **[Monitor de edictos del BOE](https://github.com/jose-antarias/Monitor-BOE)** | Agente automatizado que rastrea diariamente edictos judiciales concursales, reduciendo tareas manuales drásticamente en recaudación. |
-| **Gestor inteligente de correo** | Sistema que categoriza, analiza y resume correos y adjuntos. Transforma gestiones de 1 hora en procesos de 5 minutos. |
-| **Calculadora de plazos de la LCSP** | App para el cálculo de plazos de contratación pública (Ley 9/2017) automatizada según importe, trámite y calendario laboral de Lugo. |
+| **[Landing MencIA](https://github.com/jose-antarias/LandingMencIA)** | Prueba de lanzamiento de la landing page de MencIA-Estrategia de Inteligencia Artificial de la Diputación de Lugo (en desarrollo). |
+| **[The AI Island Challenge](https://github.com/ariaslombardero/The-AI-island-challenge)** | Minijuego de aventura gráfica estilo SCUMM (Monkey Island) para servir como ejemplo básico de cómo divulgar conceptos del Reglamento Europeo de IA de forma gamificada y sencilla. HTML5 autocontenido, sin dependencias. |
+| **[Guías AESIA 4.0](https://github.com/ariaslombardero/Guias-AESIA-4.0)** | Plataforma de aprendizaje interactiva de las guías prácticas para el cumplimiento del RIA publicadas por la AESIA. Incluye flashcards, cuestionarios, glosario y juegos educativos (en desarrollo). |
+| **[Monitor de edictos del BOE](https://github.com/ariaslombardero/Monitor-BOE)** | Monitor automatizado de edictos de procedimientos concursales publicados en el Tablón Edictal Judicial Único del BOE. |
+| **[Calculadora de plazos de la LCSP](https://github.com/ariaslombardero/Calculadora-LCSP-DPLugo)** | Herramienta web para el cálculo automatizado de plazos administrativos establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), adaptada al calendario festivo de Lugo y la Comunidad Autónoma de Galicia (en desarrollo). |
+
+Además de las herramientas anteriores, en este repositorio encontraréis también otros proyectos personales que he desplegado utilizado herramientas de vibe coding, como por ejemplo mi **[Portfolio interactivo personal](https://github.com/ariaslombardero/Portfolio-personal)**
 
 ## ✒️ Publicaciones académicas, premios y divulgación
 
