@@ -28,6 +28,7 @@ A continuación, os muestro una pequeña selección de los proyectos que he cons
 | **[Guías AESIA 4.0](https://github.com/ariaslombardero/Guias-AESIA-4.0)** | Plataforma de aprendizaje interactiva de las guías prácticas para el cumplimiento del RIA publicadas por la AESIA. Incluye flashcards, cuestionarios, glosario y juegos educativos (en desarrollo). |
 | **[Monitor de edictos del BOE](https://github.com/ariaslombardero/Monitor-BOE)** | Monitor automatizado de edictos de procedimientos concursales publicados en el Tablón Edictal Judicial Único del BOE. |
 | **[Calculadora de plazos de la LCSP](https://github.com/ariaslombardero/Calculadora-LCSP-DPLugo)** | Herramienta web para el cálculo automatizado de plazos administrativos establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), adaptada al calendario festivo de Lugo y la Comunidad Autónoma de Galicia (en desarrollo). |
+| **[Analizador de ayudas y subvenciones](https://github.com/ariaslombardero/Analizador-de-ayudas-y-subvenciones)** |Aplicación para analizar convocatorias de ayudas, subvenciones y fondos públicos nacionales y europeos. Genera una ficha resumen con los datos estructurados de cada convocatoria. |
 
 Además de las herramientas anteriores, en este repositorio encontraréis también otros proyectos personales que he desplegado utilizado herramientas de vibe coding, como por ejemplo mi **[Portfolio interactivo personal](https://github.com/ariaslombardero/Portfolio-personal)**
 
