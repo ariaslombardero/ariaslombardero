@@ -4,6 +4,8 @@
 
 Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar una Inteligencia Artificial soberana, ética y útil para la Administración Pública y formar a equipos para un despliegue responsable de la IA en los próximos años.
 
+En esta línea de trabajo me he encargado del diseño e implementación de [MencIA, la estrategia de Inteligencia Artificial de la Diputación de Lugo](https://deputacionlugo.gal/es/node/84367). Un Stack de IA soberana sobre servidores propios utilizando modelos de lenguaje de código abierto/pesos abiertos, con vistas a su extensión bajo la fórmula de Plataforma como Servicio (PaaS) a municipios de menos de 20.000 habitantes de la provincia de Lugo.
+
 🔗 [Visita mi portfolio profesional y mi currículum interactivo](https://ariaslombardero.es/)
 
 ## 🚀 Mi visión tecnológica: el código como herramienta didáctica
@@ -19,7 +21,7 @@ Tienen un doble objetivo:
 
 ## 💻 Portfolio de aplicaciones destacadas
 
-A continuación, os muestro una pequeña selección de los proyectos que he construido para mi entidad con el objetivo de dar difusión a su estrategia de IA y de crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje. Poco a poco compartiré otros proyectos en los que estoy trabajando actualmente e iré añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
+A continuación, os muestro una pequeña selección de los proyectos que he diseñado e implementado para MencIa, la estrategia de IA de la Diputación de Lugo. El objetivo es crear herramientas para empleados públicos útiles, sencillas y con poca curva de aprendizaje. Poco a poco compartiré otros proyectos en los que estoy trabajando actualmente e iré añadiendo más información a los actuales a medida que vaya completando toda la documentación que quiero incluir en cada repositorio de proyecto:
 
 | Proyecto | Descripción |
 | :--- | :--- |
@@ -40,6 +42,8 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 *   **Arias Lombardero, J.A.** (2025). [«Gobierno local inteligente y soberano: una propuesta estratégica para la implementación de IA de código abierto en la provincia de Lugo»](https://revista.cemci.org/numero-67/pdf/trabajos-de-evaluacion-1-gobierno-local-inteligente-y-soberano-una-propuesta-estrategica-para-la-implementacion-de-ia-de-codigo-abierto-en-la-provincia-de-lugo.pdf). *Revista del Centro de Estudios Municipales y de Cooperación Internacional (CEMCI)*, nº 67. ISSN 1989-2470.
 
 ### 🏆 Premios y reconocimientos
+
+*   **Premio Juan Raya Gómez**, a la innovación en el control y la gestión pública local 2026   [VI Jornada sobre el Sector Local  (online, may. 2026)](https://www.linkedin.com/posts/en-el-marco-de-nuestra-vi-jornada-del-sector-share-7458102529172594688-b1R3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWlu88BjhHfwTQqvTzMn_Zf4i0hp-gKPHw), otorgado por la Fundación FIASEP (Fundación de Apoyo a la Función Inspectora y de Control). Ponencia: *"MencIA: soberanía tecnológica y control algorítmico. Un nuevo paradigma auditable para la gestión pública local"*.
 
 *   **Premio a la mejor comunicación** en el [II Foro GRC (Madrid, feb. 2026)](https://www.aec.es/nosotros/actualidad-aec/el-ii-congreso-foro-grc-consolida-su-liderazgo-como-espacio-de-referencia-en-gobernanza-riesgo-y-cumplimiento/), otorgado por la Asociación Española para la Calidad (AEC). Ponencia: *"MencIA: soberanía tecnológica realista. Un modelo integral de gobierno, riesgo y cumplimiento (GRC) para la IA en el sector público"*.
 
