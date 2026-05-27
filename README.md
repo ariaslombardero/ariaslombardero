@@ -43,7 +43,7 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 
 ### 🏆 Premios y reconocimientos
 
-*   **Premio Juan Raya Gómez**, a la innovación en el control y la gestión pública local 2026   [VI Jornada sobre el Sector Local  (online, may. 2026)](https://www.linkedin.com/posts/en-el-marco-de-nuestra-vi-jornada-del-sector-share-7458102529172594688-b1R3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWlu88BjhHfwTQqvTzMn_Zf4i0hp-gKPHw), otorgado por la Fundación FIASEP (Fundación de Apoyo a la Función Inspectora y de Control). Ponencia: *"MencIA: soberanía tecnológica y control algorítmico. Un nuevo paradigma auditable para la gestión pública local"*.
+*   **Premio Juan Raya Gómez**, a la innovación en el control y la gestión pública local 2026   [VI Jornada sobre el Sector Local  (online, may. 2026)](https://fundacionfiasep.org/novedades/premiados-2026-premio-juan-raya-gomez/), otorgado por la Fundación FIASEP (Fundación de Apoyo a la Función Inspectora y de Control). Ponencia: *"MencIA: soberanía tecnológica y control algorítmico. Un nuevo paradigma auditable para la gestión pública local"*.
 
 *   **Premio a la mejor comunicación** en el [II Foro GRC (Madrid, feb. 2026)](https://www.aec.es/nosotros/actualidad-aec/el-ii-congreso-foro-grc-consolida-su-liderazgo-como-espacio-de-referencia-en-gobernanza-riesgo-y-cumplimiento/), otorgado por la Asociación Española para la Calidad (AEC). Ponencia: *"MencIA: soberanía tecnológica realista. Un modelo integral de gobierno, riesgo y cumplimiento (GRC) para la IA en el sector público"*.
 
