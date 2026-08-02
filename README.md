@@ -36,7 +36,11 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 
 ## ✒️ Publicaciones académicas, premios y divulgación
 
-### 📖 Publicaciones académicas
+### 📖 Publicaciones destacadas
+
+* **Arias Lombardero, J.A. (2026).** «Tres clics, una tarea: la eficiencia energética como criterio de calidad en la inteligencia artificial pública local». *Consultor de los ayuntamientos y de los juzgados: Revista técnica especializada en administración local y justicia municipal*, nº 8. ISSN 0210-2161. [Ver ficha en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10829957) · [Ver referencia editorial](https://elconsultor.aranzadilaley.es/Content/DocumentoRevEC.aspx)
+
+* **Arias Lombardero, J.A. (2026).** «Soberanía tecnológica y gobernanza responsable de la IA en la Administración local: el modelo MencIA de la Diputación de Lugo como paradigma de protección de derechos digitales en el territorio». En G. Vestri (coord.), *Derechos digitales y cultura. Libertad de creación y acceso a la cultura en el entorno digital*. Atelier, pp. 267–277. [Consultar la obra](https://doi.org/10.71237/M8LHIuhr)
 
 *   **Arias Lombardero, J.A.**, Rivera Capón, P. y Fariña Verea, N. (2025). [«Gobernanza algorítmica local: diseño e implementación de un stack de IA soberana en código abierto para entidades supramunicipales»](https://doi.org/10.7238/idp.v0i43.9800300). *Revista de Internet, Derecho y Política (IDP)*, nº 43. Universitat Oberta de Catalunya (UOC). ISSN 1699-8154.
 *   **Arias Lombardero, J.A.** (2025). [«Gobierno local inteligente y soberano: una propuesta estratégica para la implementación de IA de código abierto en la provincia de Lugo»](https://revista.cemci.org/numero-67/pdf/trabajos-de-evaluacion-1-gobierno-local-inteligente-y-soberano-una-propuesta-estrategica-para-la-implementacion-de-ia-de-codigo-abierto-en-la-provincia-de-lugo.pdf). *Revista del Centro de Estudios Municipales y de Cooperación Internacional (CEMCI)*, nº 67. ISSN 1989-2470.
