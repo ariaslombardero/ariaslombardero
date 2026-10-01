@@ -38,7 +38,7 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 
 ### 📖 Publicaciones destacadas
 
-* **Arias Lombardero, J.A. (2026).** «Tres clics, una tarea: la eficiencia energética como criterio de calidad en la inteligencia artificial pública local». *Consultor de los ayuntamientos y de los juzgados: Revista técnica especializada en administración local y justicia municipal*, nº 8. ISSN 0210-2161. [Ver ficha en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10829957) · [Ver referencia editorial](https://elconsultor.aranzadilaley.es/Content/DocumentoRevEC.aspx)
+* **Arias Lombardero, J.A. (2026).** «Tres clics, una tarea: la eficiencia energética como criterio de calidad en la inteligencia artificial pública local». * Revista El Consultor de los ayuntamientos*, nº 8. ISSN 0210-2161. [Ver ficha en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10829957).
 
 * **Arias Lombardero, J.A. (2026).** «Soberanía tecnológica y gobernanza responsable de la IA en la Administración local: el modelo MencIA de la Diputación de Lugo como paradigma de protección de derechos digitales en el territorio». En G. Vestri (coord.), *Derechos digitales y cultura. Libertad de creación y acceso a la cultura en el entorno digital*. Atelier, pp. 267–277. [Consultar la obra](https://doi.org/10.71237/M8LHIuhr)
 
