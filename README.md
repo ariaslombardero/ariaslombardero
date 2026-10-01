@@ -47,7 +47,11 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 
 ### 🏆 Premios y reconocimientos
 
-*   **Premio Juan Raya Gómez**, a la innovación en el control y la gestión pública local 2026   [VI Jornada sobre el Sector Local  (online, may. 2026)](https://fundacionfiasep.org/novedades/premiados-2026-premio-juan-raya-gomez/), otorgado por la Fundación FIASEP (Fundación de Apoyo a la Función Inspectora y de Control). Ponencia: *"MencIA: soberanía tecnológica y control algorítmico. Un nuevo paradigma auditable para la gestión pública local"*.
+*   **Premio Mejor Idea a Futuro**, en los Premios SAM 2026. [II Congreso Nacional SAM 2026-Servicios de Asistencia a Municipios  (Granada, sep. 2026)](https://congreso-sam.es/ca/estos-son-los-proyectos-premiados-en-los-premios-sam-2026/), otorgados por la Diputación de Granada. Ponencia: *"MencIA: asistencia algorítmica a los municipios desde un catálogo provincial de IA soberana"*.
+
+*   **Finalista Premios NovaGob 2026**, en la categoría [Persona Innovadora del Año.](https://premios.novagob.org/finalistas-2026/). Seleccionado entre las dos últimas candidaturas finalistas. El ganador se conocerá el 10 de diciembre de 2026.
+  
+*   **Premio Juan Raya Gómez**, a la innovación en el control y la gestión pública local 2026. [VI Jornada sobre el Sector Local  (online, may. 2026)](https://fundacionfiasep.org/novedades/premiados-2026-premio-juan-raya-gomez/), otorgado por la Fundación FIASEP (Fundación de Apoyo a la Función Inspectora y de Control). Ponencia: *"MencIA: soberanía tecnológica y control algorítmico. Un nuevo paradigma auditable para la gestión pública local"*.
 
 *   **Premio a la mejor comunicación** en el [II Foro GRC (Madrid, feb. 2026)](https://www.aec.es/nosotros/actualidad-aec/el-ii-congreso-foro-grc-consolida-su-liderazgo-como-espacio-de-referencia-en-gobernanza-riesgo-y-cumplimiento/), otorgado por la Asociación Española para la Calidad (AEC). Ponencia: *"MencIA: soberanía tecnológica realista. Un modelo integral de gobierno, riesgo y cumplimiento (GRC) para la IA en el sector público"*.
 
