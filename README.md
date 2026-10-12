@@ -38,6 +38,8 @@ Además de las herramientas anteriores, en este repositorio encontraréis tambi�
 
 ### 📖 Publicaciones destacadas
 
+*   **Arias Lombardero, J.A.** (2026). [«De la garantía contractual a la garantía arquitectónica: MencIA y la soberanía del diseño ante la inteligencia artificial generativa en el sector público local. Una lectura del RGPD en su décimo aniversario»](https://revista.aepd.es/revistaprivacidad/article/view/73). *Revista de Privacidad, Innovación y Tecnología (RPIT)-Agencia Española de Protección de datos (AEPD)*, nº 2. ISSN 3101-769X.
+
 * **Arias Lombardero, J.A. (2026).** «Tres clics, una tarea: la eficiencia energética como criterio de calidad en la inteligencia artificial pública local». * Revista El Consultor de los ayuntamientos*, nº 8. ISSN 0210-2161. [Ver ficha en Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10829957).
 
 * **Arias Lombardero, J.A. (2026).** «Soberanía tecnológica y gobernanza responsable de la IA en la Administración local: el modelo MencIA de la Diputación de Lugo como paradigma de protección de derechos digitales en el territorio». En G. Vestri (coord.), *Derechos digitales y cultura. Libertad de creación y acceso a la cultura en el entorno digital*. Atelier, pp. 267–277. [Consultar la obra](https://doi.org/10.71237/M8LHIuhr)
