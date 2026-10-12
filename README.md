@@ -1,6 +1,6 @@
 # Hola, soy Jose Antonio Arias Lombardero 👋
 
-**Funcionario Público | Divulgador y formador en IA | Aprendiz de vibe coder.**
+**Funcionario Público | Formador en IA | Aprendiz de vibe coder.**
 
 Actualmente trabajo como **Jefe de la Sección de Innovación y Participación Ciudadana** en la Diputación de Lugo. Uno de mis principales objetivos es impulsar una Inteligencia Artificial soberana, ética y útil para la Administración Pública y formar a equipos para un despliegue responsable de la IA en los próximos años.
 
